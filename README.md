@@ -149,40 +149,35 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
-<br>
-![image](https://github.com/prakash22004108/COLOR-CONVERSION/assets/113497032/11a2d354-76b9-4ae8-9924-0ef8dab2dc48)
-![image](https://github.com/prakash22004108/COLOR-CONVERSION/assets/113497032/5cf225ba-ebee-48b8-aabb-457fb88c909b)
-![image](https://github.com/prakash22004108/COLOR-CONVERSION/assets/113497032/9ea9343c-1122-4fd2-b338-efe69cdb3e98)
-![image](https://github.com/prakash22004108/COLOR-CONVERSION/assets/113497032/499f78a2-a860-40c1-92d0-8834c11fcc1c)
+
+![image](https://github.com/prakash22004108/COLOR-CONVERSION/assets/113497032/11a2d354-76b9-4ae8-9924-0ef8dab2dc48) ![image](https://github.com/prakash22004108/COLOR-CONVERSION/assets/113497032/5cf225ba-ebee-48b8-aabb-457fb88c909b) ![image](https://github.com/prakash22004108/COLOR-CONVERSION/assets/113497032/9ea9343c-1122-4fd2-b338-efe69cdb3e98) ![image](https://github.com/prakash22004108/COLOR-CONVERSION/assets/113497032/499f78a2-a860-40c1-92d0-8834c11fcc1c)
 
 
-<br>
 
 ### ii) HSV to RGB and BGR
-<br>
+
 ![image](https://github.com/prakash22004108/COLOR-CONVERSION/assets/113497032/20825fcd-9267-4bf2-840b-f44909def027)
 ![image](https://github.com/prakash22004108/COLOR-CONVERSION/assets/113497032/2b88c267-4eff-4480-aa43-bc6ac58f05ad)
 
-<br>
+
 
 ### iii) RGB and BGR to YCrCb
-<br>
+
 ![image](https://github.com/prakash22004108/COLOR-CONVERSION/assets/113497032/b6743766-bd32-4f3f-9789-7bb7979cf40a)
 ![image](https://github.com/prakash22004108/COLOR-CONVERSION/assets/113497032/895ad091-2d18-4b84-8a10-62ca25f197e5)
 
-<br>
+
 
 ### iv) Split and merge RGB Image
-<br>
+
 ![image](https://github.com/prakash22004108/COLOR-CONVERSION/assets/113497032/dc6dd198-3573-46f1-ac12-7427be095471)
 
-<br>
+
 
 ### v) Split and merge HSV Image
-<br>
+
 ![image](https://github.com/prakash22004108/COLOR-CONVERSION/assets/113497032/39526d63-5642-4278-9041-ec48ec9729bd)
 
-<br>
 
 
 ## Result:
